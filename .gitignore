@@ -1,1 +1,30 @@
+# Node.js
 /node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+/log.txt
+/coverage/
+
+# OS-specific
+.DS_Store       # macOS
+Thumbs.db       # Windows
+ehthumbs.db     # Windows
+desktop.ini     # Windows
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDEs and Editors
+.idea/          # JetBrains IDEs (e.g., WebStorm)
+*.suo           # Visual Studio
+*.ntvs          # Visual Studio Node.js Tools
+*.njsproj       # Visual Studio Node.js Project
+*.sln           # Visual Studio Solution File
+*.swp           # Swap files created by Vim
+
+# System Files
+*.orig          # Merge conflict backup files

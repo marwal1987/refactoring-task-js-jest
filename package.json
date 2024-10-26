@@ -2,6 +2,7 @@
   "name": "gilded-rose-kata",
   "version": "1.0.0",
   "description": "Gilded Rose kata in JavaScript with Jest",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
@@ -25,5 +26,8 @@
   "homepage": "https://github.com/emilybache/GildedRose-Refactoring-Kata",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }

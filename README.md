@@ -3,8 +3,7 @@
 ## About This Project
 
 This project is an implementation of the Gilded Rose kata in JavaScript using Jest for unit testing.
-
-**Note**: This has been an experiment to see how well ChatGPT could handle complicated instructions and additional requirements in refactoring and improving code. As well as building the backend to let the user handle updates in the shop via commandline.
+And it also includes a Node applikation for updating the Shop.
 
 ## 📜 Acknowledgments
 
